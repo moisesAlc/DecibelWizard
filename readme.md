@@ -1,3 +1,2 @@
-### Modifica volume de arquivos de vídeo em seções específicas de código
+### Changes video files's volume in a specified time frame
 
-[] GUI Inicial
